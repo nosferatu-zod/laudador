@@ -1,11 +1,15 @@
-<?php
+	<?php
 
-	include_once("conexao.php");
-	$resultado = "SELECT study.pk as id_exame, patient.pat_name as nomepaciente, study.study_desc as descricaoexame, date_format(study.study_datetime,'%d/%m/%Y')  as dataexame FROM study LEFT JOIN patient ON study.patient_fk = patient.pk ORDER BY `study_datetime` desc LIMIT 0,20 ";
-	$resultado_listar= mysqli_query($conn, $resultado);
-	session_abort ();
+		include_once("conexao.php");
+							$limite = 1; // limite de registros por pagina
+							$pag = 0; // valor padrao se nao for enviado nenhum valor via metodo GET
+						
+							if(isset($_GET["pag_atual"])){$pag_atual = $_GET["pag_atual"];}else $pag_atual = 0;
+		$resultado = "SELECT study.pk as id_exame, patient.pat_name as nomepaciente, study.study_desc as descricaoexame, date_format(study.study_datetime,'%d/%m/%Y')  as dataexame FROM study LEFT JOIN patient ON study.patient_fk = patient.pk ORDER BY `study_datetime` desc LIMIT $pag_atual, $limite ";
+		$resultado_listar= mysqli_query($conn, $resultado);
+		session_abort ();
 	
-?>
+	?>
 <!DOCTYPE html>
 <html lang="pt-br">
 	<head>
@@ -107,6 +111,54 @@ $resultado_listar = mysqli_query($conn, "SELECT study.pk as id_exame,study.study
 						</tbody>
 					 </table>
 				</div>
+					<?php
+
+						$tabela = "study"; // altere aqui sua tabela do banco de dados
+
+
+						if (!$pag_atual) {	
+							$pag_atual = $pag;
+						} else {
+							$pag_atual = $pag_atual;
+						}
+						// sql que pega o resultado total de registro
+						$sql2 = mysqli_query($conn,"SELECT * FROM $tabela") or die();
+						$resultado2 =  mysqli_num_rows($sql2);
+						// fim sql
+
+					
+						$contagem_linhas = (int) mysqli_num_rows($resultado_listar);
+
+						echo "     Foram encontrados $contagem_linhas resultados de $resultado2<br />";
+						while ($linha = mysqli_fetch_array($resultado_listar)) {
+						$campo1 = $linha["study_desc"]; // campos que vao repetir na função while... copie, cole e renomeie para fazer outro
+						$campo2 = $linha["pk"];
+						echo "$campo1 - $campo2<br />";
+						}
+						// fim sql
+
+
+						// inicio paginação
+						//$res_int = (int) $resultado; 
+						$l_int =  (int) $limite;
+						$ultima = ceil($contagem_linhas/$limite); // define o valor da ultima pagina
+						$anterior = $pag_atual-$limite; // define o valor da pagina anterior a atual
+
+						if ($anterior < 0) { // se anterior for menor que 0, ele exibe apenas os nomes sem link
+						echo "Primeira - Anterior - ";
+						} else { // senao ele exibe os links
+						echo " <a href=index.php?pag_atual=0>Primeira - </a>";
+						echo " <a href=index.php?pag_atual=$anterior>Anterior - </a>";
+						}
+
+						$proxima = intval($pag_atual+$limite); // define o valor da proxima pagina
+						if ($proxima > $resultado2) { // não deixa o link passar do total de registros
+						echo "Proxima - Ultima";
+						} else {
+						echo " <a href=index.php?pag_atual=$proxima>Proxima - </a>";
+						echo " <a href=index.php?pag_atual=$ultima>Ultima</a>";
+						}
+					?>
 			</div>		
 		</div>
 							
@@ -119,8 +171,11 @@ $resultado_listar = mysqli_query($conn, "SELECT study.pk as id_exame,study.study
 
 						<script type="text/javascript">
 							
-							$.fn.datepicker.defaults.language = "pt-BR";
+							//$.fn.datepicker.defaults.language = "pt-BR";
 							//$.fn.datepicker.defaults.format = "yyyy-mm-dd";
 						</script>
+
+
+
   </body>
 </html>
