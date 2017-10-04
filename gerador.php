@@ -21,7 +21,7 @@ $mpdf = new mPDF(
              15,    // margin_left
              15,    // margin right
              58,     // margin top    -- aumentei aqui para que não ficasse em cima do header
-             0,    // margin bottom
+             30,    // margin bottom
              6,     // margin header
              0,     // margin footer
              'L');  // L - landscape, P - portrait

@@ -29,7 +29,7 @@
 	<div class="col-md-12">
 			<form method="GET">
 				  	<div class="form-group">
-					    <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Nome do Paciente" name="paciente">				    
+					    <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Nome do Paciente" name="paciente"  >				    
 				 	</div>	   		
     				
     				<div class="form-group col-md-5 input-group date" data-provide="datepicker">
@@ -41,7 +41,7 @@
     				</div>
 	    				
 	    			<div class="form-group col-md-5 input-group date" data-provide="datepicker">
-	      				<input type="text" class="form-control" placeholder="até" name="datafim" id="datafim">
+	      				<input type="text" class="form-control" placeholder="até" name="datafim" id="datafim" ">
 	      					
 	      					<div class="input-group-addon">
 			        				<span class="glyphicon glyphicon-th"></span>
