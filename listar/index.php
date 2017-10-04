@@ -1,7 +1,7 @@
 	<?php
 
 		include_once("conexao.php");
-							$limite = 1; // limite de registros por pagina
+							$limite = 20; // limite de registros por pagina
 							$pag = 0; // valor padrao se nao for enviado nenhum valor via metodo GET
 						
 							if(isset($_GET["pag_atual"])){$pag_atual = $_GET["pag_atual"];}else $pag_atual = 0;

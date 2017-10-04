@@ -8,7 +8,7 @@
 <body>
 <?php
 
- $link = @mysqli_connect("localhost","root","","pacsdb") or die(mysqli_connect_error()); 
+ $link = @mysqli_connect("192.168.1.180","root","123","pacsdb") or die(mysqli_connect_error()); 
 // verifica se foi enviado um arquivo 
 
 

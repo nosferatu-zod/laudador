@@ -1,6 +1,6 @@
 <?php
 session_start();
-$link = @mysqli_connect("localhost","root","","pacsdb") or die(mysqli_connect_error()); 
+$link = @mysqli_connect("192.168.1.180","root","123","pacsdb") or die(mysqli_connect_error()); 
  				
  				$laudo = $_GET["laudo"];
  				$buffer = $laudo;
