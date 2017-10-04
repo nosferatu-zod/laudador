@@ -1,0 +1,1531 @@
+INSERT INTO `matrizes` (`id`, `titulo`, `texto`) VALUES
+(NULL, 
+
+'RAIOSX DE ARTICULAÇÃO COXOFEMORAL', 
+
+' Estruturas ósseas íntegras.
+Tecidos moles sem alterações.
+Espaços articulares preservados.
+Ausência de lesões líticas ou blásticas. '
+
+
+
+),
+
+(NULL, 
+
+'RAIOSX DE ARTICULAÇÃO ESTERNOCLAVICULAR', 
+
+' Estruturas ósseas íntegras.
+ Tecidos moles sem alterações.
+ Espaços articulares preservados.
+ Ausência de lesões líticas ou blásticas. '
+
+
+
+),
+
+(NULL, 
+
+'RAIOSX DE ARTICULAÇÕES SACRO ILÍACAS', 
+
+' Estruturas ósseas íntegras.
+ Tecidos moles sem alterações.
+ Espaços articulares preservados.
+ Ausência de lesões líticas ou blásticas. '
+
+
+
+),
+
+(NULL, 
+
+'RAIOSX DE ARTICULAÇÕES TÊMPOROMANDIBULARES', 
+
+' À direita:
+ Estrutura óssea do côndilo mandibular preservada.
+ Cavidade glenóide do temporal sem anormalidades.
+ Eminência articular do temporal sem alterações.
+À esquerda:
+ Estrutura óssea do côndilo mandibular preservada.
+ Cavidade glenóide do temporal sem anormalidades.
+ Eminência articular do temporal sem alterações.
+Bilateralmente:
+ À manobra de abertura bucal observouse excursão normal dos côndilos mandibulares. '
+
+
+
+),
+
+(NULL, 
+
+'RAIOSX DE BACIA', 
+
+'  Estruturas ósseas íntegras.
+ Espaços articulares coxofemorais preservados.
+ Articulações sacroilíacas sem alterações.
+ Sínfise púbica de aspecto habitual.
+ Tecidos moles preservados.
+ Ausência de sinais de fratura.
+ Ausência de evidências de lesões líticas ou blásticas. '
+
+
+
+),
+
+(NULL, 
+
+'RAIOSX DE BRAÇO', 
+
+'  Estruturas ósseas íntegras.
+ Espaços articulares preservados.
+ Tecidos moles preservados.
+ Ausência de sinais de fratura.
+ Ausência de evidências de lesões líticas ou blásticas.'
+
+
+
+),
+
+(NULL, 
+
+'RAIOSX DE CALCÂNEO', 
+
+'  Estruturas ósseas íntegras.
+ Espaços articulares preservados.
+ Tecidos moles preservados.
+ Ausência de sinais de fratura.
+ Ausência de evidências de lesões líticas ou blásticas.'
+
+
+
+),
+
+(NULL, 
+
+'RAIOSX DE CAVUM', 
+
+'  Presença de tecidos moles em teto e parede posterior da rinofaringe, sem/com ...............obliteração da coluna aérea (discreta
+moderada acentuada hipertrofia adenoideana).
+ .......... das amígdalas palatinas.'
+
+
+
+),
+
+(NULL, 
+
+'RAIOSX DE COLANGIOGRAFIA PRÉ OPERATÓRIA', 
+
+' Realizada injeção de contraste iodado via dreno de Kehr, durante colecistectomia, observandose:
+ Vias biliares intrahepáticas com distribuição e calibre normais, sem falhas de enchimento evidentes.
+ Hepatocolédoco com calibre normal e sem falhas de enchimento.
+ Boa passagem de contraste para o duodeno.'
+
+
+
+),
+
+(NULL, 
+
+'RAIOSX DE COLANGIOPANCREATOGRAFIA RETRÓGRADA', 
+
+'  Exame radiográfico com uso de radioscopia para controle de instrumentação de vias biliares por via endoscópica retrógrada.'
+
+
+
+),
+
+(NULL, 
+
+'RAIOSX DE COLUNA CERVICAL', 
+
+' Corpos vertebrais alinhados e com alturas preservadas.
+ Lâminas, pedículos e apófises preservados.
+ Articulações interfacetárias sem alterações.
+ Apófises unciformes de aspecto normal.
+ Ausência de costelas cervicais.
+ Espaços discais preservados.
+ Canal raquídio de dimensões normais.'
+
+
+
+),
+
+(NULL, 
+
+'RAIOSX DE COLUNA DORSAL', 
+
+' Corpos vertebrais alinhados e com alturas preservadas.
+ Lâminas, pedículos e apófises preservados.
+ Articulações interfacetárias sem alterações.
+ Espaços discais preservados.
+ Ausência de lesões líticas ou blásticas.'
+
+
+
+),
+
+(NULL, 
+
+'RAIOSX DE COLUNA LOMBAR', 
+
+' Corpos vertebrais alinhados e com alturas preservadas.
+ Lâminas, pedículos e apófises preservados.
+ Articulações interfacetárias sem alterações.
+ Espaços discais preservados.
+ Ausência de lesões líticas ou blásticas.'
+
+
+
+),
+
+(NULL, 
+'RAIOSX DE COLUNA TOTAL PARA ESCOLIOSE', 
+
+' Não há desvios significativos do eixo vertebral.
+ Corpos vertebrais alinhados e com alturas preservadas.
+ Lâminas, pedículos e apófises preservados.
+ Articulações interfacetárias sem alterações.
+ Espaços discais preservados.
+Obs.: Esta é uma radiografia panorâmica e exames de cada segmento devem ser considerados para avaliação mais
+detalhada.'
+
+
+
+),
+
+(NULL, 
+
+'RAIOSX DE COTOVELO', 
+
+' Estruturas ósseas íntegras.
+ Espaços articulares preservados.
+ Tecidos moles preservados.
+ Ausência de sinais de fratura.
+ Ausência de evidências de lesões líticas ou blásticas.'
+
+
+
+),
+
+(NULL, 
+
+'RAIOSX DE COXA', 
+
+' Estruturas ósseas íntegras.
+ Espaços articulares preservados.
+ Tecidos moles preservados.
+ Ausência de sinais de fratura.
+ Ausência de evidências de lesões líticas ou blásticas.'
+
+
+
+),
+
+(NULL, 
+
+'RAIOSX DE CRÂNIO', 
+
+' Estrutura normal dos ossos da calota craniana.
+ Não há sinais de hipertensão intracraniana.
+ Não foram observadas calcificações patológicas intracranianas.
+ Sela túrcica de configuração, dimensões e contornos normais.
+ Coluna aérea da nasofaringe aparentemente livre.'
+
+
+
+),
+
+(NULL, 
+
+'RAIOSX DE ESÔFAGOHIATOESTÔMAGO E DUODENO', 
+
+' Trânsito livre do meio de contraste.
+ Esôfago com topografia, morfologia, calibre e relevo mucoso preservados.
+ Peristalse normal, com caracterização de ondas peristálticas primárias e secundárias com padrão e freqüência normais. Bom
+clearance esofágico.
+ Hiato esofagiano incontinente, com presença de  episódios de refluxo gastroesofágico grau , durante o exame.
+ Estômago com topografia, morfologia, calibre e relevo mucoso preservados.
+ Esvaziamento gástrico normal.
+ Bulbo duodenal com morfologia e contornos preservados.
+ Arco duodenal sem alterações.
+Opinião:
+ Refluxo gastroesofágico.'
+
+
+
+),
+
+(NULL, 
+
+'RAIOSX DE ESÔFAGOHIATOESTÔMAGO E DUODENO', 
+
+' Trânsito livre do meio de contraste.
+ Esôfago com topografia, morfologia, calibre e relevo mucoso preservados.
+ Peristalse normal, com caracterização de ondas peristálticas primárias e secundárias com padrão e freqüência normais. Bom
+clearance esofágico.
+ Hiato esofagiano continente, sem evidência de refluxos gastroesofágicos durante o exame.
+ Estômago com topografia, morfologia, calibre e relevo mucoso preservados.
+ Esvaziamento gástrico normal.
+ Bulbo duodenal com morfologia e contornos preservados.
+ Arco duodenal sem alterações.
+Opinião:
+Exame sem anormalidades estruturais ou funcionais evidentes.'
+
+
+
+),
+
+
+(NULL, 
+
+'RAIOSX DE ENEMA OPACO', 
+
+'Realizada injeção de contraste baritado e de ar por via retal para obtenção de duplo contraste,observandose:
+ Trânsito retrógrado com progressão normal até o ceco.
+ Alças colônicas de morfologia contornos, calibre e relevo mucoso preservados.
+ Ceco, sigmóide e reto sem alterações.
+ Ausência de evidência de falhas de enchimento ou imagens de adição.
+Opinião:
+Enema opaco com aspecto habitual.'
+
+
+
+),
+
+(NULL, 
+
+'RAIOSX DE ESCANOMETRIA', 
+
+'Membro Inferior Direito:
+Coxa direita:
+Perna direita:
+___________
+Membro Inferior Esquerdo:
+Coxa esquerda:
+Perna esquerda:
+____________
+ O membro inferior direito mede ... cm e o membro inferior esquerdo mede ... cm.
+ O membro inferior ........ é ................ cm que o membro inferior .................'
+
+
+
+),
+
+
+(NULL, 
+
+'RAIOSX DE ESCÁPULA', 
+
+' Estruturas ósseas íntegras.
+ Espaços articulares preservados.
+ Tecidos moles preservados.
+ Ausência de sinais de fratura.
+ Ausência de evidências de lesões líticas ou blásticas.'
+
+
+
+),
+
+(NULL, 
+
+'RAIOSX DE ESQUELETO', 
+
+' Estruturas ósseas íntegras.'
+
+
+
+),
+
+(NULL, 
+
+'RAIOSX DE ESTERNO', 
+
+'Estruturas ósseas íntegras.
+ Ausência de sinais de fratura.
+ Ausência de evidências de lesões líticas ou blásticas.'
+
+
+
+),
+
+(NULL, 
+
+'RAIOSX DE HISTEROSSALPINGOGRAFIA', 
+
+' Cavidade uterina com opacificação homogênea, dimensões e relevo mucoso preservados, não se observando falhas de
+enchimento ou imagens de adição.
+ Trompas uterinas pérvias.
+ Houve extravazamento de contraste para a cavidade peritoneal (Cottê positivo bilateralmente).'
+
+
+
+),
+
+(NULL, 
+
+'RAIOSX DE JOELHO', 
+
+' Estruturas ósseas íntegras.
+ Espaços articulares preservados.
+ Tecidos moles preservados.
+ Ausência de sinais de fratura.
+ Ausência de evidências de lesões líticas ou blásticas.'
+
+
+
+),
+
+(NULL, 
+
+'RAIOSX DE LARINGE', 
+
+'Coluna aérea da laringe preservada.'
+
+
+
+),
+
+(NULL, 
+
+'RAIOSX DE MANDÍBULA', 
+
+' Mandíbula de configuração anatômica.
+ Ausência de evidências de lesões líticas ou blásticas.'
+
+
+
+),
+
+(NULL, 
+
+'RAIOSX DE MÃO', 
+
+' Estruturas ósseas íntegras.
+ Espaços articulares preservados.
+ Tecidos moles preservados.
+ Ausência de sinais de fratura.
+ Ausência de evidências de lesões líticas ou blásticas.'
+
+
+
+),
+
+
+(NULL, 
+
+'RAIOSX DE MÃOS E PUNHOS PARA IDADE ÓSSEA', 
+
+' Os ossos das mãos e punhos apresentam morfologia normal no presente exame.
+ Paciente do sexo ____________________.
+ Idade cronológica de_____________ anos e _____________ meses.
+ Idade óssea em torno de _________ anos, segundo método de GreulichPyle – Oxford University Press,
+1959.
+ O desvio padrão para o grupo acima é de __________ meses.
+ O desvio padrão deste exame é de ________________ .
+Conclusão
+ Maturidade esquelética ________________.
+Obs.: Os valores acima citados são baseados no software Skeletal Development Of The Hand e Wrist  Oxford University Press
+– 2011 e seus achados devem ser correlacionados com os dados clínicos.'
+
+
+
+),
+
+(NULL, 
+
+'RAIOSX DE MASTÓIDES', 
+
+' Mastóides pneumatizadas e normoaeradas.
+ Demais estruturas ósseas íntegras.
+ Ausência de sinais de fraturas.'
+
+
+
+),
+
+(NULL, 
+
+'RAIOSX DE OMBRO', 
+
+' Estruturas ósseas íntegras.
+ Acrômio tipo [ ].
+ Espaço articular acromioclavicular preservado.
+ Espaço articular glenoumeral sem alterações.
+ Tecidos moles preservados.
+ Ausência de sinais de fratura.
+ Ausência de evidências de lesões líticas ou blásticas.'
+
+
+
+),
+
+(NULL, 
+
+'RAIOSX DE ÓRBITAS', 
+
+' Cavidades orbitárias de forma e dimensões normais.
+ Paredes ósseas de aspecto normal.'
+
+
+
+),
+
+
+(NULL, 
+
+'RAIOSX DE OSSOS DA FACE', 
+
+' Estruturas ósseas íntegras.
+ Ausência de sinais de fratura.
+ Ausência de evidências de lesões líticas ou blásticas.'
+
+
+
+),
+
+(NULL, 
+
+'RAIOSX DE PANORÂMICA DE MEMBROS INFERIORES', 
+
+' Estruturas ósseas íntegras.
+ Espaços articulares preservados.
+ Tecidos moles preservados.
+ Ausência de sinais de fratura.
+ Ausência de evidências de lesões líticas ou blásticas.'
+
+
+
+),
+
+(NULL, 
+
+'RAIOSX DE PÉ', 
+
+' Estruturas ósseas íntegras.
+ Espaços articulares preservados.
+ Tecidos moles preservados.
+ Ausência de sinais de fratura.
+ Ausência de evidências de lesões líticas ou blásticas.'
+
+
+
+),
+
+
+(NULL, 
+
+'RAIOSX DE PERNA', 
+
+' Estruturas ósseas íntegras.
+ Espaços articulares preservados.
+ Tecidos moles preservados.
+ Ausência de sinais de fratura.
+ Ausência de evidências de lesões líticas ou blásticas.'
+
+
+
+),
+
+(NULL, 
+
+'RAIOSX DE PUNHO', 
+
+' Estruturas ósseas íntegras.
+ Espaços articulares preservados.
+ Tecidos moles preservados.
+ Ausência de sinais de fratura.
+ Ausência de evidências de lesões líticas ou blásticas.'
+
+
+
+),
+
+(NULL, 
+
+'RAIOSX DE SACRO CÓCCIX', 
+
+' Estruturas ósseas íntegras.
+ Espaços articulares preservados.
+ Ausência de sinais de fratura.
+ Ausência de evidências de lesões líticas ou blásticas.'
+
+
+
+),
+
+(NULL, 
+
+'RAIOSX DE SEIOS DA FACE', 
+
+' Estruturas ósseas íntegras.
+ Septo nasal centrado.
+ Transparência normal dos seios paranasais.
+ Sela túrcica de dimensões normais.
+ Coluna aérea da nasofaringe livre.'
+
+
+
+),
+
+
+(NULL, 
+
+'RAIOSX DE SELA TÚRCICA', 
+
+' Sela túrcica com morfologia, dimensões e contornos normais.
+ Apófises clinóides anteriores e posteriores sem anormalidades.
+ Seio esfenoidal normoaerado.'
+
+
+
+),
+
+
+(NULL, 
+
+'RAIOSX DE SIALOGRAFIA', 
+
+' Ductos e ramificações pérvios e de calibre preservado, sem evidência de ectasia e/ou afastamento entre os mesmos.
+ Glândula parótida/submandibular de dimensões normais.'
+
+
+
+),
+
+(NULL, 
+
+'RAIOSX DE TÓRAX', 
+
+' Estruturas ósseas íntegras.
+ Tecidos moles preservados.
+ Traquéia e brônquios fonte anatômicos.
+ Mediastino sem evidências de linfonodomegalias.
+ Área cardíaca normal.
+ Seios costofrênicos livres.
+ Parênquima pulmonar normotransparente.'
+
+
+
+),
+
+
+(NULL, 
+
+'RAIOSX DE TORNOZELO', 
+
+' Estruturas ósseas íntegras.
+ Espaços articulares preservados.
+ Tecidos moles preservados.
+ Ausência de sinais de fratura.
+ Ausência de evidências de lesões líticas ou blásticas.'
+
+
+
+),
+
+(NULL, 
+
+'RAIOSX DE TRÂNSITO INTESTINAL', 
+
+' Estruturas ósseas íntegras.
+ Linhas musculares preservadas.
+ Distribuição gasosa habitual.
+ Ausência de calcificações patológicas.
+ Realizada administração oral de contraste baritado observandose:
+ Trânsito livre do meio de contraste em tempo fisiológico.
+ As alças de delgado apresentam morfologia, topografia e calibre normais.
+ Não foram observadas áreas de estreitamento ou estenose.
+ Mucosa preservada.
+ Íleo terminal e válvula íleocecal sem anormalidades.'
+
+
+
+),
+
+
+(NULL, 
+
+'RAIOSX DE URETROCISTOGRAFIA', 
+
+' Não se evidenciam calcificações patológicas.
+ Bexiga com opacificação homogênea, de capacidade normal e contornos regulares sem evidências de falhas de enchimento
+ou imagens de adição. Assoalho vesical preservado.
+ Uretra permeável e de calibre normal.
+ Ao esforço miccional observase boa abertura da uretra posterior.
+ Não há evidência de refluxo vésicoureteral.
+ Resíduo urinário pós miccional ausente ou dentro dos limites da normalidade.'
+
+
+
+),
+
+
+(NULL, 
+
+'RAIOSX DE UROGRAFIA EXCRETORA', 
+
+' Estruturas ósseas íntegras.
+ Linhas musculares preservadas.
+ Distribuição gasosa normal.
+ Ausência de calcificações patológicas no trajeto renoureteral.
+ Gordura pré peritoneal preservada.
+ Ausência de evidência de hepatoesplenomegalia.
+Após a injeção de contraste endovenoso, observouse:
+ Excreção simultânea e bilateral do contraste.
+ Rins de topografia, morfologia, contornos e tamanho preservados.
+ Sistemas pielocaliciais e ureteres encontramse de aspecto normal.
+ Bexiga sem anormalidades radiográficas.
+ Não há evidências de resíduo urinário patológico.'
+
+
+
+),
+
+
+(NULL, 
+
+'TOMOGRAFIA COMPUTADORIZADA DE ABDÔME SUPERIOR', 
+
+'Técnica:
+Estudo realizado com cortes axiais de 5 mm de espessura, orientados por radiografia digital, pré uso endovenoso de contraste, pós arterial,
+pós venoso e pós tardio.
+Anteriormente ä realização do exame o paciente ingeriu meio de contraste por via oral.
+Relatório:
+ Ausência de evidência para lesões pleuro pulmonares na transição tóracoabdominal.
+ Fígado de dimensões normais, contornos regulares e parênquima de densidade homogênea.
+ Veias porta e hepáticas de calibre normal.
+ Não há evidências de dilatações de vias biliares intra ou extra hepáticas.
+ Vesícula biliar de aspecto habitual.
+ Baço de dimensões normais, contornos regulares e parênquima de densidade homogênea.
+ Pâncreas de forma, contornos e dimensões normais.
+ Rins tópicos com dimensões normais e contornos regulares. Parênquima com coeficientes e espessura normal. Boa
+eliminação do contraste bilateralmente.
+ Glândulas suprarenais com dimensões e morfologia normais.
+ Aorta e veia cava inferior de calibre normal e contornos regulares.
+ Ausência de linfonodomegalias ou coleções líquidas abdominais.
+ Mesentério e alças intestinais com aspecto habitual.
+Opinião:
+Estudo tomográfico do abdôme superior anatômico.'
+
+
+
+),
+
+
+(NULL, 
+
+'TOMOGRAFIA COMPUTADORIZADA DE ABDÔME TOTAL', 
+
+'Técnica:
+Estudo realizado com cortes axiais de 5 mm de espessura, orientados por radiografia digital, pré uso endovenoso de contraste, pós arterial,
+pós venoso e pós tardio.
+Anteriormente à realização do exame o paciente ingeriu meio de contraste por via oral.
+Relatório:
+ Ausência de evidência para lesões pleuro pulmonares na transição tóracoabdominal.
+ Fígado de dimensões normais, contornos regulares e parênquima de densidade homogênea.
+ Veias porta e hepáticas de calibre normal.
+ Não há evidências de dilatações de vias biliares intra ou extra hepáticas.
+ Vesícula biliar de aspecto habitual.
+ Baço de dimensões normais, contornos regulares e parênquima de densidade homogênea.
+ Pâncreas de forma, contornos e dimensões normais.
+ Rins tópicos com dimensões normais e contornos regulares. Parênquima com coeficientes e espessura normal. Boa
+eliminação do contraste bilateralmente.
+ Glândulas suprarenais com dimensões e morfologia normais.
+ Aorta e veia cava inferior de calibre normal e contornos regulares.
+ Ausência de linfonodomegalias ou coleções líquidas abdominais.
+ Mesentério e alças intestinais com aspecto habitual.
+ Bexiga de forma e contornos normais.
+Opinião:
+Estudo tomográfico computadorizado de abdôme total dentro dos parâmetros da normalidade.'
+
+
+
+),
+
+
+(NULL, 
+
+'ANGIOTOMOGRAFIA COMPUTADORIZADA DE TÓRAX', 
+
+'Técnica
+Estudo realizado com cortes no plano axial, com espessura de 5 mm e reconstrução de 2,5 mm, na técnica helicoidal, com
+injeção de contraste endovenoso.
+Relatório
+Tronco da artéria pulmonar e artérias pulmonares direita e esquerda tem topografia, calibre e atenuação para fluxo normais.
+Os ramos segmentares e subsegmentares das artérias pulmonares tem topografia, trajeto, calibre e atenuações para fluxo
+preservados.
+Não se observam estenoses ou dilatações das artérias pulmonares e seus ramos.
+Não há sinais de amputação dos trajetos vasculares ou de outras características de tromboembolismo pulmonar.
+Opinião
+Angiotomografia computadorizada de tórax dentro dos limites da normalidade.'
+
+
+
+),
+
+(NULL, 
+
+'TOMOGRAFIA COMPUTADORIZADA DE ARTICULAÇÕES', 
+
+'Técnica:
+Foram realizados cortes axiais helicoidais de 1 mm de espessura, com reconstrução em planos coronal e sagital.
+Relatório:
+ As estruturas ósseas tem morfologia e textura normais.
+ Músculos e planos gordurosos sem alterações.
+ Espaços articulares dentro dos padrões da normalidade com superfícies articulares regulares.
+ Ausência de lesões expansivas ou coleções.
+Opinião:
+Estudo tomográfico computadorizado dentro dos parâmetros de normalidade.'
+
+
+
+),
+
+(NULL, 
+
+'TOMOGRAFIA COMPUTADORIZADA DE ARTICULAÇÕES TÊMPORO MANDIBULARES', 
+
+'Técnica:
+Realizada aquisição volumétrica com cortes de 1 mm de espessura e reconstruções nos planos coronais e sagitais.
+Relatório:
+À Direita:
+ Estruturas ósseas íntegras.
+ Côndilo mandibular com morfologia, densidade e contornos normais.
+ Cavidade articular do temporal preservada.
+ Eminência articular do temporal sem alterações.
+ Espaços articulares preservados.
+ Excursão normal do côndilo à manobra de abertura bucal.
+À Esquerda:
+ Estruturas ósseas íntegras.
+ Côndilo mandibular com morfologia, densidade e contornos normais.
+ Cavidade articular do temporal preservada.
+ Eminência articular do temporal sem alterações.
+ Espaços articulares preservados.
+ Excursão normal do côndilo à manobra de abertura bucal.
+Opinião:
+Estudo tomográfico das articulações têmporomandibulares dentro dos parâmetros da normalidade.'
+
+
+
+),
+
+
+(NULL, 
+
+'TOMOGRAFIA COMPUTADORIZADA DE BACIA', 
+
+'Técnica:
+Foram realizados cortes axiais de 3 mm de espessura, orientados por radiografia digital.
+Relatório:
+ As estruturas ósseas tem morfologia e textura normais.
+ Articulações sacro ilíacas simétricas com espaços articulares preservados.
+ Músculos e planos gordurosos sem alterações.
+ Sínfise púbica sem alterações.
+ Articulações coxofemorais com aspecto habitual.
+Opinião:
+Estudo tomográfico computadorizado dentro dos parâmetros de normalidade.'
+
+
+
+),
+
+(NULL, 
+
+'TOMOGRAFIA COMPUTADORIZADA DE COLUNA CERVICAL', 
+
+'Técnica:
+Estudo realizado com cortes axiais de 2 mm de espessura, analisando os níveis C4/C5; C5/C6; C6/C7 e C7/T1.
+Imediatamente antes do estudo foi injetado contraste endovenoso.
+Relatório:
+ Corpos vertebrais alinhados e com alturas preservadas.
+ Lâminas, pedículos e apófises preservados.
+ Articulações interfacetárias com aspecto habitual.
+ Apófises unciformes sem alterações e forames de conjugação com dimensões normais.
+ Disco intervertebral C4/C5 tópico e com altura preservada.
+ Disco intervertebral C5/C6 tópico e com altura preservada.
+ Disco intervertebral C6/C7 tópico e com altura preservada.
+ Disco intervertebral C7/T1 tópico e com altura preservada.
+ Canal vertebral com dimensões normais.
+ Saco tecal com coeficientes de atenuação normais.
+ Não há sinais de lesões expansivas intra ou extra tecais detectáveis ao método.
+ Tecidos moles paravertebrais sem anormalidades.
+Opinião:
+Estudo tomográfico da coluna cervical anatômico.'
+
+
+
+),
+
+
+(NULL, 
+
+'TOMOGRAFIA COMPUTADORIZADA DE COLUNA DORSAL', 
+
+'Técnica:
+Estudo realizado com cortes axiais de 5 mm de espessura, orientados por radiografia digital.
+Relatório:
+ Estruturas ósseas sem alterações.
+ Discos intervertebrais de morfologia e dimensões normais, não se observando hérnias.
+ Canal vertebral de morfologia e amplitude normais.
+ Saco dural com coeficientes de atenuação normais.
+ Tecidos moles paravertebrais sem alterações.
+Opinião:
+Estudo tomográfico da coluna dorsal anatômico.
+Observação técnica: A ressonância magnética é o método de escolha para estudo da coluna dorsal.'
+
+
+
+),
+
+
+(NULL, 
+
+'TOMOGRAFIA COMPUTADORIZADA DE COLUNA LOMBAR', 
+
+'Técnica:
+Estudo realizado com cortes axiais de 3 mm de espessura, orientados por radiografia digital, sem injeção de contraste endovenoso.
+Foram analisados os seguintes níveis: L3/L4; L4/L5 e L5/S1.
+Relatório:
+ Corpos vertebrais alinhados e com alturas preservadas.
+ Lâminas, pedículos e apófises preservados.
+ Articulações interfacetárias sem alterações.
+ Disco intervertebral L3/L4 tópico e com altura preservada.
+ Disco intervertebral L4/L5 tópico e com altura preservada.
+ Disco intervertebral L5/S1 tópico e com altura preservada.
+ Forames intervertebrais com dimensões normais, raízes nervosas saem livres.
+ Saco dural com coeficientes de atenuação normais.
+ Ligamentos amarelos de espessura normal.
+ Canal raquídio com dimensões normais.
+ Ausência de processos expansivos ou coleções.
+ Tecidos moles paravertebrais sem alterações.
+Opinião:
+Tomografia de coluna lombosacra sem alterações.'
+
+
+
+),
+
+
+(NULL, 
+
+'TOMOGRAFIA COMPUTADORIZADA DE CRÂNIO', 
+
+'Técnica:
+Exame realizado com cortes axiais, ............... uso de contraste iodado endovenoso.
+Relatório:
+ Estruturas orbitárias visualizadas sem anormalidades.
+ Seios paranasais normoaerados.
+ Tronco cerebral e cerebelo sem alterações.
+ Cisternas da base, sulcos e fissuras cerebrais proeminentes.
+ Dilatação ex vácuo do sistema ventricular supratentorial.
+ Calcificações das porções intracranianas das artérias carótidas internas.
+ Estruturas da linha média centradas.
+ Parênquima cerebral com coeficiente de atenuação normal.
+ Calcificações fisiológicas dos plexos coróides.
+ Ausência de coleções ou processos expansivos intra ou extra axiais.
+ Ausência de áreas de realce anômalo após a injeção de contraste.
+
+Técnica:
+Estudo realizado em uma série com cortes axiais de 2 mm de espessura na fossa posterior e 10 mm de espessura no restante do crânio,
+.............................. uso de infusão de contraste endovenoso.
+Relatório:
+ Estruturas orbitárias visualizadas sem anormalidades.
+ Seios paranasais normoaerados.
+ Tronco cerebral e cerebelo sem alterações.
+ Proeminência dos sulcos, fissuras e cisternas.
+ Dilatação ex vácuo do sistema ventricular supratentorial.
+ Calcificações das porções intracranianas das artérias carótidas internas.
+ Estruturas da linha média centradas.
+ Áreas de hipodensidades da substância branca supratentorial, sugestivas de leucoaraiose.
+ Giros corticais e núcleos da base preservados.
+ Calcificações fisiológicas dos plexos coróides.
+ Ausência de coleções ou processos expansivos intra ou extra axiais.
+ Ausência de áreas de realce anômalo após a injeção de contraste.
+
+
+Técnica:
+Exame realizado com cortes axiais, ........ uso de contraste iodado endovenoso.
+Relatório:
+ Estruturas orbitárias visualizadas sem anormalidades.
+ Seios paranasais e células das mastóides normoaerados.
+ Tronco cerebral e cerebelo sem alterações.
+ Cisternas da base preservadas.
+ Sulcos e fissuras cerebrais sem anormalidades.
+ Sistema ventricular com morfologia, dimensões e topografia normais.
+ Ausência de calcificações patológicas.
+ Estruturas da linha média centradas.
+ Parênquima cerebral com morfologia e densidades habituais.
+ Calcificação fisiológica da pineal.
+ Ausência de coleções líquidas intra ou extraaxiais.
+ Após a injeção de contraste endovenoso, não se identificou realces patológicos parenquimatosos.
+Opinião:
+Estudo tomográfico crânioencefálico sem anormalidades.'
+
+
+
+
+),
+
+
+
+(NULL, 
+
+'TOMOGRAFIA COMPUTADORIZADA DENTAL SCAN', 
+
+'Finalidade do exame
+1. Avaliação óssea dimensional para o planejamento de implantes dentários em
+( ) maxila ( ) mandíbula.
+2. Avaliação de localização dentária:
+Técnica
+1. Tomografia computadorizada helicoidal.
+2. Imagens de aquisição axiais, com paciente deitado em posição dorsal.
+3. Reconstruções transversais, com cortes a cada 2,0 mm.
+4. Reconstruções panorâmicas, com cortes a cada 1,0 mm.
+5. Reconstruções em 3D.
+Relatório
+1. Proporção de tamanho das imagens em relação à estrutura radiografada indicada na escala milimetrada
+localizada em cada imagem.
+2. Números de identificação presentes na imagem axial de referência indicam a
+localização correspondente de cada corte transversal.
+3. Este exame de imagens é complementar à anamnese e o exame clínico,
+auxiliando o cirurgiãodentista no planejamento do tratamento.
+4. As medidas impressão nos filmes são estimativas de medidas de largura e
+altura ósseas de áreas edêntulas, podendo ou não coincidir com as medidas
+cirúrgicas, e NÃO são sugestões de medidas dos implantes dentários.
+5. Imagens do canal nasopalatino/forame incisivo visibilizadas nos cortes
+______.
+6. Imagens dos forames mentonianos visibilizadas nos cortes: _________________(lado direito) e
+________________ (lado esquerdo).
+7. Imagens tomográficas indicam corticais espessas e íntegras.
+8. Imagens tomográficas sugerem solução de continuidade de tábua óssea na região
+_______________ (cortes _________________).'
+
+
+
+),
+
+
+(NULL, 
+
+'TOMOGRAFIA COMPUTADORIZADA DE JOELHOS', 
+
+'Técnica:
+Foram realizados cortes axiais de 5mm de espessura com joelhos a 0, 30, 45 e 60 graus de flexão.
+Relatório:
+ Estruturas óssea íntegras.
+ Planos adiposos e grupos musculares preservados. Não há evidências de massas ou coleções periarticulares.
+ Patelas com morfologia tipo [ ] de Wiberg, normoposicionada no sulco da tróclea femoral, com
+contornos regulares e densidade medular óssea mantida.
+ Tróclea femoral apresentando facetas com morfologia habitual, corticais medulares ósseas íntegras e com sulco medindo
+cerca de [ ] graus à direita e [ ] graus à esquerda.
+ Fendas articulares fêmoro tibiais e fêmoro patelares preservadas.
+ Retináculos patelares sem alterações.
+ Ausência de derrames articulares. Não há evidências de calcificações articulares.
+ Fossa poplítea com aspecto habitual.
+ Distância TAGT: [ ] mm
+ Relação patela/tendão patelar: [ ]
+Posição Repouso 30 graus 45 graus 60 graus
+Tilt patelar graus
+Deslocamento patelar graus'
+
+
+
+),
+
+
+
+(NULL, 
+
+'TOMOGRAFIA COMPUTADORIZADA DE ÓRBITAS', 
+
+'Técnica utilizada:
+Estudo realizado com cortes axiais volumétricos de 1 mm de espessura, com reconstruções axiais e coronais de 2 mm.
+Relatório:
+ Órbitas de dimensões, morfologia e contornos normais.
+ Buracos ópticos de diâmetros normais e contornos regulares.
+ Fendas esfenoidais de aspecto normal.
+ Globos oculares de forma, dimensões e coeficientes de atenuação normais.
+ Nervos ópticos de espessura e contornos normais.
+ Musculatura ocular extrínseca sem anormalidades.
+ Glândulas lacrimais de morfologia e dimensões normais.
+ Gordura intra e extraconal sem alterações.
+Opinião:
+Estudo tomográfico das órbitas anatômico.'
+
+
+
+),
+
+
+
+(NULL, 
+
+'TOMOGRAFIA COMPUTADORIZADA DE MASTOIDES', 
+
+'Técnica:
+Foram realizados cortes tomográficos computadorizados dos ossos temporais nos planos axial e coronal, e da fossa posterior do crânio no
+plano axial, ......... a injeção de contraste endovenoso.
+Relatório:
+Ouvido direito:
+ Conduto auditivo externo sem alterações.
+ Pneumatização e aeração normal da fenda timpânica.
+ Espaço de Prussak livre.
+ Cadeia ossicular, esporão e muro lateral do ático preservados.
+ Antro mastóideo e células da mastóide normoaeradas.
+ Tegmen tympani íntegro.
+Ouvido esquerdo:
+ Conduto auditivo externo sem alterações.
+ Pneumatização e aeração normal da fenda timpânica.
+ Espaço de Prussak livre.
+ Cadeia ossicular, esporão e muro lateral do ático preservados.
+ Antro mastóideo e células da mastóide normoaeradas.
+ Tegmen tympani íntegro.
+Bilateralmente:
+ As janelas oval e redonda são bem visualizadas e de configuração tomográfica normal.
+ Canais semicirculares, cóclea e vestíbulo de configuração anatômica normal.
+ Conduto auditivo interno simétrico e de dimensões normais com parede óssea e crista falciforme íntegras.
+ Canal do nervo facial íntegro.
+ Forame jugular e carotídeo sem anormalidades.
+ Ausência de lesões expansivas no ângulo ponto cerebelar.
+Opinião:
+Estudo tomográfico dos ossos temporais anatômico.'
+
+
+
+),
+
+
+
+(NULL, 
+
+'TOMOGRAFIA COMPUTADORIZADA DE PELVE FEMININA', 
+
+'TOMOGRAFIA COMPUTADORIZADA DE PELVE FEMININA
+Técnica:
+Estudo realizado com cortes axiais de 7 mm de espessura, orientados por radiografia digital, pela técnica
+helicoidal, sem e com uso de contraste endovenoso.
+Antes do exame o paciente ingeriu contraste diluído.
+Relatório:
+ Bexiga de forma e contornos normais.
+ Não há evidências de coleções.
+ Alças intestinais e mesentério com aspecto normal.
+ Não há evidências de adenomegalias.
+ Espaços anoretais (ísquioretal, interesfinctérico e supraelevador) de aspecto normal.
+ Grupos musculares, tecido celular subcutâneo e estruturas ósseas sem alterações.
+ Útero com aspecto habitual.
+ Ausência de coleções ou lesões expansivas anexiais.
+Opinião:
+Estudo tomográfico de pelve feminina anatômico.'
+
+
+
+),
+
+(NULL, 
+
+'TOMOGRAFIA COMPUTADORIZADA DE PELVE MASCULINA', 
+
+'Técnica:
+Estudo realizado com cortes axiais de 7 mm de espessura, orientados por radiografia digital, pela técnica
+helicoidal, sem e com o uso de contraste endovenoso.
+Antes do exame o paciente ingeriu contraste diluído.
+Relatório:
+ Bexiga de forma e contornos normais.
+ Vesículas seminais de morfologia, dimensões e contornos normais.
+ Próstata de dimensões normais e contornos regulares.
+ Não há evidências de adenomegalias.
+ Não há evidências de coleções.
+ Alças intestinais e mesentério com aspecto habitual.
+ Espaços anoretais (ísquioretal, interesfinctérico e supraelevador) de aspecto normal.
+ Grupos musculares, tecido celular subcutâneo e estruturas ósseas sem alterações.
+Opinião:
+Estudo tomográfico de pelve anatômico.
+OBS: Existem limitações técnicas na avaliação dos estadios A e B das neoplasias prostáticas.'
+
+
+
+),
+
+(NULL, 
+
+'TOMOGRAFIA COMPUTADORIZADA DE PESCOÇO', 
+
+'Técnica:
+Estudo realizado com cortes axiais de 5 mm de espessura, ............. uso de contraste endovenoso.
+Relatório:
+ Pele e subcutâneo sem alterações.
+ Planos musculares retrocervicais com aspecto habitual.
+ Coluna cervical sem alterações significativas.
+ Espaços prévertebral, retrofaríngeo e mucosofaríngeo preservados.
+ Naso e orofaringe com aspecto normal.
+ Epiglote, valéculas e seios piriformes sem alterações.
+ Pregas ariepiglóticas, vestibulares e vocais sem alterações.
+ Espaços préepiglótico e paraglóticos íntegros.
+ Osso hióide, cartilagens tireóide, cricóide e aritinóide de aspecto normal.
+ Espaços parafaríngeos livres e em sua topografia habitual.
+ Espaços parotídeo, mastigador e sublingual com aspecto habitual.
+ Traquéia com morfologia e calibre preservados.
+ Não há evidências de adenomegalias.
+ Espaços carotídeo preservado, vasos cervicais com aspecto habitual.
+Opinião:
+Estudo tomográfico de pescoço anatômico.'
+
+
+
+),
+
+
+(NULL, 
+
+'TOMOGRAFIA COMPUTADORIZADA DE SEIOS DA FACE', 
+
+'Técnica:
+Estudo realizado com cortes volumétricos axiais de 1 mm de espessura e reconstrução nos planos axial e coronal, com 5 mm de
+espessura.
+Relatório:
+ Estruturas ósseas de aspecto normal.
+ Porções cartilaginosa e óssea do septo nasal centradas.
+ Cornetos anatômicos.
+ Ausência de espessamentos mucosos nasais.
+ Recessos frontais, meatos superiores, médios e inferiores livres.
+ Complexos ostiomeatais de aspecto normal.
+ Demais porções da cavidade nasal sem alterações.
+ Seios paranasais normoaerados, sem sinais de espessamento mucoso.
+ Fóveas etmoidais e lâminas crivosas simétricas e bem posicionadas.
+ Nasofaringe com espaço aéreo normal. Torus tubários e fossetas de Rosenmuller sem alterações.
+ Fossas e lâminas ptérigopalatinas preservadas.
+ Espaços parafaríngeos íntegros.
+Opinião:
+Estudo tomográfico dos seios da face anatômico.'
+
+
+
+),
+
+(NULL, 
+
+'TOMOGRAFIA COMPUTADORIZADA DE SELA TÚRCICA', 
+
+'Técnica:
+Estudo realizado com cortes coronais de 2 mm de espessura sem e com injeção venosa de meio de contraste.
+Relatório:
+ Sela túrcica de configuração, dimensões e contornos normais.
+ Apófises clinóides anteriores e posteriores de aspecto normal.
+Foram observadas as seguintes dimensões hipofisárias:
+Láterolateral: ........... Crâniocaudal: ............ Ânteroposterior: ............
+ Parênquima hipofisário de forma e dimensões normais, apresentando captação homogênea do meio de contraste.
+ Haste pituitária centrada.
+ Parênquima cerebral adjacente com coeficientes de atenuação habituais.
+ Cisternas supraselares de aspecto normal.
+ Seios cavernosos e vasos paraselares sem alterações.
+Opinião:
+Estudo tomográfico da sela túrcica anatômico.'
+
+
+
+),
+
+
+(NULL, 
+
+'TOMOGRAFIA COMPUTADORIZADA DE ALTA RESOLUÇÃO DO TÓRAX', 
+
+'Técnica:
+Realizados cortes de alta resolução do tórax com 1 mm de espessura e reconstrução otimizada, em inspiração máxima (12 cortes) e
+expiração máxima (6 cortes).
+Relatório:
+ Traquéia e brônquios principais permeáveis e de calibre normal.
+ Brônquios lobares, segmentares e distais de calibre normal.
+ Parênquima pulmonar com coeficientes de atenuação habituais.
+ Vascularização pulmonar de distribuição e calibre normais.
+ Pleura sem alterações.
+Opinião:
+Estudo tomográfico de alta resolução do tórax anatômico.'
+
+
+
+),
+
+
+(NULL, 
+
+'TOMOGRAFIA COMPUTADORIZADA DE TÓRAX', 
+
+'Técnica:
+Estudo realizado com cortes axiais de 7 mm de espessura, ........... uso de contraste endovenoso.
+Relatório:
+ Estruturas ósseas, musculares e planos gordurosos de morfologia e densidade normais.
+ Estruturas vasculares mediastinais de calibre normal e contornos regulares.
+ Traquéia e brônquios fontes permeáveis e de calibre normal.
+ Brônquio lobares e segmentares de calibre normal.
+ Não se observam adenomegalias mediastinais.
+ Coração de morfologia e dimensões normais.
+ Hilos pulmonares de configuração e dimensões normais.
+ Parênquima pulmonar com coeficientes de atenuação habituais.
+ Vascularização pulmonar de distribuição e calibre normais.
+ Pleura de aspecto normal.
+Opinião:
+Estudo tomográfico do tórax anatômico.'
+
+
+
+),
+
+
+(NULL, 
+
+'UROTOMOGRAFIA COMPUTADORIZADA', 
+
+'Técnica:
+Realizados cortes axiais do abdome total com 2,5 mm de espessura e 2,5 mm de intermédio antes da injeção de contraste
+endovenoso.
+Realizados cortes axiais de 5,0 mm de espessura ao nível dos rins nas fases pós contraste arterial e venosa.
+Realizados cortes axiais de 2,5 mm de espessura no abdome total na fase pós contraste excretora.
+Laudo:
+ Rins tópicos, com morfologia, contornos e densidade habituais.
+Dimensões renais:
+Direito: x x cm
+Esquerdo: x x cm
+ Após a injeção de contraste observase eliminação simultânea, bilateral e em tempo habitual do meio de contraste, pelos rins.
+ Sistemas pielocaliciais e ureteres sem alterações.
+ Não caracterizadas imagens de cálculos radiopacos.
+ Bexiga sem anormalidades.
+Opinião
+Urotomografia computadorizada sem anormalidades.'
+
+
+
+),
+
+
+
+(NULL, 
+
+'RESSONÂNCIA MAGNÉTICA DE ABDOME SUPERIOR', 
+
+'Técnica utilizada
+Axial: T2 SSFSE, T2 SSFSE FAT SAT, T1 SSFSE in e out phase pré e pós injeção de contraste paramagnético.
+Coronal: T2 SSFSE.
+Relatório
+ Ausência de evidência para lesões pleuro pulmonares na transição tóracoabdominal.
+ Fígado de dimensões normais, contornos e sinal preservados.
+ Veias porta e hepáticas de calibre normal.
+ Não há evidências de dilatações de vias biliares intra ou extra hepáticas.
+ Vesícula biliar de aspecto habitual.
+ Baço de dimensões normais, contornos regulares e sinal habituais.
+ Pâncreas de forma, contornos e forma preservadas.
+ Rins tópicos com dimensões normais e contornos regulares. Parênquima com sinal e espessura normal. Boa eliminação do
+contraste bilateralmente.
+ Glândulas suprarenais com morfologia, dimensões e sinal normais.
+ Aorta e veia cava inferior de calibre normal e contornos regulares.
+ Ausência de linfonodomegalias ou coleções líquidas abdominais.
+ Mesentério e alças intestinais com aspecto habitual.
+Opinião
+Ressonância magnética de abdôme superior dentro dos limites da normalidade.
+Exame documentado em ______ filmes e em CD com sequências adicionais.'
+
+
+
+),
+
+
+(NULL, 
+
+'RM ANGIO', 
+
+'Técnica utilizada
+Axial: 3D TOF.
+Axial: TOF SPGR pós injeção de contraste paramagnético.
+Relatório
+ Carótidas internas, artérias cerebrais anteriores, artérias cerebrais médias, porção cranial das artérias vertebrais, artéria
+basilar, artérias cerebrais posteriores, artérias comunicantes anterior e posteriores de calibre, trajeto e fluxo preservados.
+ Não foram observados sinais de circulação patológica nos segmentos analisados.
+ Seio sagital superior e inferior, veia de Galeno, seio reto, seios transversos e sigmóides e porção cranial das veias jugulares
+internas de calibre, trajeto e fluxo preservados.
+Opinião
+Angiorressonância magnética de __________________ dentro dos parâmetros da normalidade.
+Exame documentado em ______ filmes e em CD com sequências adicionais.'
+
+
+
+),
+
+
+(NULL, 
+
+'RESSONÂNCIA MAGNÉTICA DE ANTE PÉ', 
+
+'Técnica utilizada:
+Axial: T2 FAT SAT, T1 FAT SAT, T1 FAT SAT pós injeção de contraste paramagnético.
+Coronal: T1, T2 FAT SAT, T1 FAT SAT pós injeção de contraste paramagnético.
+Sagital: T1, T2 FAT SAT, T2, T1 FAT SAT pós injeção de contraste paramagnético.
+Relatório:
+ Estruturas ósseas de sinal preservados.
+ Relações articulares preservadas.
+ Ausência de derrame intraarticular.
+ Pele e tecido celular subcutâneo de sinal preservados.
+ Grupos musculares de morfologia e sinal preservados.
+ Vasculatura de calibre e sinal preservados.
+ Tendões flexores e extensores sem anormalidades.
+ Não se caracterizou líquido patológico peritendíneo.
+ Ligamento de Lisfranc e demais estruturas ligamentares preservadas.
+ Placas plantares sem alterações.
+ Após a administração do meio de contraste paramagnético endovenoso não se observou realces patológicos.
+Opinião:
+Ressonância Magnética de AntePé .............. dentro dos limites da normalidade.
+Exame documentado em ______ filmes e em CD com sequências adicionais.'
+
+
+
+),
+
+
+(NULL, 
+
+'RESSONÂNCIA MAGNÉTICA DE ARTICULAÇÃO COXOFEMORAL', 
+
+'Técnica utilizada
+Axial: T1 FSE, T1 FSE FAT SAT, T2 FSE, T1 FSE FAT SAT pós injeção de contraste paramagnético.
+Coronal: T1, T2 FSE, T1 FSE FAT SAT pós injeção de contraste paramagnético.
+Relatório
+ Tecido subcutâneo de aspecto normal.
+ Grupos musculares de morfologia e sinal normais, não se caracterizando lesões focais.
+ Demais estruturas ósseas de morfologia e sinal preservados.
+ Articulação da sínfise púbica e coxofemoral de aspecto normal.
+ Não se caracterizou derrame intra articular.
+ Linfonodomegalias ausentes.
+ Estruturas pélvicas sem anormalidades.
+Opinião
+Ressonância magnética de articulações coxofemorais dentro dos parâmetros da normalidade.
+Exame documentado em ______ filmes e em CD com sequências adicionais.'
+
+
+
+),
+
+(NULL, 
+
+'ARTRORRESSONÂNCIA MAGNÉTICA DE QUADRIL', 
+
+'Técnica
+Realizada a injeção de solução de contraste paramagnético intraarticular, guiada por TC, sem intercorrências.
+Após a injeção da solução foi realizada ArtroTC com cortes de 1 mm de espessura.
+Axial: T2 FSE FAT SAT, T1 FSE FAT SAT.
+Coronal: T1 SE, T2 FSE FAT SAT, T1 FSE FAT SAT.
+Sagital: T2 FSE FAT SAT, T1 FSE FAT SAT.
+Relatório:
+ Houve boa distribuição da solução de contraste intraarticular pelos diversos recessos articulares, com relativa melhora da dor
+referida pelo paciente.
+ Articulação do quadril congruente.
+ Cavidade acetabular com concavidade habitual, apresentando contornos regulares íntegros.
+ Cabeça femoral com esfericidade mantida, contornos regulares, linha de corticalidade óssea
+preservada e intensidade de sinal da medular óssea habitual.
+ Demais estruturas ósseas com morfologia e sinal preservado.
+ Revestimento condral femoroacetabular apresentase com espessura normal, contornos regulares e integridade preservada.
+ Labrum acetabular com morfologia, contornos e intensidade de sinal preservado.
+ Ligamentos redondo e transverso, iliofemoral, isquiofemoral e pubofemoral com espessura e
+intensidade de sinal habituais.
+ Estruturas peritrocantéricas com morfologia habitual e intensidade de sinal preservada.
+ Tendões isquiotibiais sem sinais de espessamentos e com intensidade de sinal preservado.
+ Tendões e musculatura adutora com espessura e intensidade de sinal habituais.
+ Demais planos musculares com espessura e intensidade de sinal habituais.
+ Articulação da sínfise púbica de aspecto normal.
+ Estruturas pélvicas sem anormalidades.
+ Linfonodomegalias ausentes.
+Opinião
+Artrorressonância magnética dentro dos parâmetros da normalidade.
+Exame documentado em ______ filmes e em CD com sequências adicionais.'
+
+
+
+),
+
+
+(NULL, 
+
+'RESSONÂNCIA MAGNÉTICA DAS ARTICULAÇÕES TÊMPORO MANDIBULARES', 
+
+'Técnica utilizada
+Sagital: PD direita e esquerda boca aberta.
+Sagital: PD direita e esquerda boca fechada.
+Coronal: PD.
+Cine sagital: PD.
+Relatório:
+Bilateralmente
+ Côndilos mandibulares de morfologia e sinal preservados.
+ Cavidades glenóides e eminências articulares de sinal e contornos preservados.
+ Musculatura de sinal e morfologia habituais.
+ Abertura bucal máxima de 4 degraus.
+À direita
+ Disco articular tópico, com boa excursão á abertura bucal.
+À esquerda
+ Disco articular tópico, com boa excursão à abertura bucal.
+Opinião
+Ressonância magnética das articulações têmporo mandibulares dentro dos parâmetros da normalidade.
+Exame documentado em ______ filmes e em CD com sequências adicionais.'
+
+
+
+),
+
+(NULL, 
+
+'RESSONÂNCIA MAGNÉTICA DA BACIA', 
+
+'Técnica:
+Axial: T1 FSE, T1 FSE FAT SAT, T2 FSE, T1 FSE FAT SAT pós injeção de contraste paramagnético.
+Coronal: T1, T2 FSE, T1 FSE FAT SAT pós injeção de contraste paramagnético.
+Relatório:
+ Tecido subcutâneo de aspecto normal.
+ Grupos musculares de morfologia e sinal conservados.
+ Cabeças femorais de morfologia e sinal normais, não se caracterizando lesões focais.
+ Estruturas ósseas de morfologia e sinal preservados.
+ Articulações da sínfise púbica e sacroilíacas de aspecto normal.
+ Linfonodomegalias ausentes.
+ Estruturas pélvicas sem anormalidades.
+ Bexiga e uretra sem alterações.
+ Próstata e vesículas seminais com aspecto habitual.
+ Reto e sigmóide sem alterações.
+ Ausência de processos expansivos e coleções.
+Opinião
+Ressonância magnética dentro dos parâmetros da normalidade.
+Exame documentado em ______ filmes e em CD com sequências adicionais.'
+
+
+
+)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

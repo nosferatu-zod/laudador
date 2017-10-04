@@ -102,10 +102,16 @@
 
                                
                                $desc =  utf8_encode($descricaoexame[0]);
-                              // echo $desc;
+                              //echo $desc;
                                 
-                                $result8 = $link->query("SELECT texto FROM matrizes WHERE MATCH(titulo,texto) AGAINST ('{$desc}')") or trigger_error($link->error);
-                                $texto = $result8 ->fetch_array(MYSQL_BOTH);
+                                $result8 = $link->query("SELECT min(id) FROM matrizes WHERE MATCH(titulo,texto) AGAINST ('{$desc}')") or trigger_error($link->error);
+                                $idMatriz = $result8 ->fetch_array(MYSQL_BOTH);
+                                //echo $idMatriz;
+
+
+                                $result9 = $link->query("SELECT texto FROM matrizes WHERE id = ('{$idMatriz[0]}')") or trigger_error($link->error);
+                                $texto = $result9 ->fetch_array(MYSQL_BOTH);
+
                                  $tx = utf8_encode($texto[0]);
                                  //echo $tx;
                             //SELECT texto FROM articles WHERE MATCH(titulo,texto) AGAINST ('{$desc}');
@@ -134,14 +140,14 @@
                 <meta name=viewport content="width=device-width, initial-scale=1">
                 <title></title>
               </head>
-            <body >                        
+            <body >                      
         	 			
   			     <div style="position: relative;"> 
-                      <p>ID:<?php echo $fkpaciente[0] ?> </p>
-                      <p>Nome:<?php echo remover_caracter($nome[0]); ?></p>  
-                      <p>Data de Nascimento:<?php echo date_format($data,'d/m/Y') ?></p>
+                      <p>ID: <?php echo $fkpaciente[0] ?> </p>
+                      <p>Nome: <?php echo remover_caracter($nome[0]); ?></p>  
+                      <p>Data de Nascimento: <?php echo date_format($data,'d/m/Y') ?></p>
                       <p>Idade: <?php echo $idade[0]; ?> anos</p>
-                      <p>Médico Solicitante:<?php echo utf8_encode($medicosolicitante[0]); ?></p> 
+                      <p>Médico Solicitante: <?php echo utf8_encode($medicosolicitante[0]); ?></p> 
         	   </div>
             
             
@@ -154,7 +160,7 @@
          
                 <footer style=" ;  position: relative; bottom: 0px;    width: 100%; height: 60px; ">
                           <figure>
-                              <p align="center"><img src="assinatura/<?php echo $assinatura[0]?>" width="200px"></p>
+                              <p align="center"><img src="assinatura/<?php echo $assinatura[0]?>" width="100px"></p>
                           </figure>
                       <figcaption style="position:relative;"><p align="center"><?php echo ($medico[0]);?></p></figcaption>
                 </footer>
